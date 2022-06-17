@@ -34,7 +34,8 @@ text-align: center;
 /* Increased the width of container so large image can be displayed.*/
 
 .imageContainer{
-  width: 450px;
+  width: 350px;
+  height: 400px;
   margin: auto;
 }
 
