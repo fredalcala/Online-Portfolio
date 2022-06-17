@@ -31,8 +31,10 @@ text-align: center;
   background-color: #ffffff;
 }
 
+/* Increased the width of container so large image can be displayed.*/
+
 .imageContainer{
-  width: 700px;
+  width: 750px;
   margin: auto;
 }
 
