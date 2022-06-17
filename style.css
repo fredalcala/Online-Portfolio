@@ -1,14 +1,14 @@
 header{
   height: 100px;
   margin: 20px;
-  width: 950px;
+  width: auto;
   padding: 30px;
   background-color: #C0A464;
 }
 
 .pageContainer{
-  width: 950px;
-  margin: 150px;
+  width: auto;
+  margin: 250px;
   padding: 30px;
   background-color: #8DE3F8;
 }
@@ -20,6 +20,7 @@ text-align: center;
 
 .condense{
   width: 150px;
+  text-align: center;
 }
 
 h1{
