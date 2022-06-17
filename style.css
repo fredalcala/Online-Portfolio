@@ -63,7 +63,9 @@ h3{
   footer{
     height: 100px;
     width:auto;
+    margin: auto;
     background-color: #C8C8C8:
+    text-align: center;
   }
   
 a:link    { color: blue;  }
