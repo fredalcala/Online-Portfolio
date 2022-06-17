@@ -34,6 +34,7 @@ text-align: center;
 .imageContainer{
   width: 700px;
   margin: auto;
+  border-radius: 25px;
 }
 
 /* gives my images a little frame for more content */
