@@ -14,13 +14,13 @@ text-align: center;
 
 .pageContainer{
   width: auto;
-  margin: 10px;
-  padding: 100px;
+  margin: auto;
+  padding: 500px;
   background-color: #ffffff;
 }
 
 .imageContainer{
-  float: center;
+  float: right;
 }
 
 .pictureFrame{
@@ -37,6 +37,7 @@ text-align: center;
 .condense{
   width: 250px;
   margin: auto;
+  padding: 20px;
 }
 
 h1{
