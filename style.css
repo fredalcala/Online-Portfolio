@@ -44,9 +44,9 @@ text-align: center;
 
 .pictureFrame{
   background-color: #C8C8C8;
-  height: 150px;
+  height: 100px;
   width: auto;
-  margin: 0px;
+  margin: 10px;
   padding: 10px;
   border-radius: 20px;
 }
