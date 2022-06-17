@@ -63,3 +63,8 @@ h3{
   footer{
     background-color: #C8C8C8:
   }
+  
+a:link    { color: blue;  }
+a:visited { color: purple;   }
+a:hover   { color: #A5FFF8; }
+a:active  { color: #C8C8C8;  }
