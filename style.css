@@ -66,5 +66,5 @@ h3{
   
 a:link    { color: blue;  }
 a:visited { color: purple;   }
-a:hover   { color: #A5FFF8; }
-a:active  { color: #C8C8C8;  }
+a:hover   { color: black; }
+a:active  { color: green;  }
