@@ -1,5 +1,5 @@
 header{
-  height: 100px;
+  height: 50px;
   margin: 20px;
   width: auto;
   padding: 30px;
@@ -8,8 +8,8 @@ header{
 
 .pageContainer{
   width: auto;
-  margin: 250px;
-  padding: 30px;
+  margin: 50px;
+  padding: 100px;
   background-color: #8DE3F8;
 }
 
