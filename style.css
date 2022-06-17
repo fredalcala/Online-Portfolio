@@ -1,6 +1,6 @@
 header{
-  height: 50px;
-  margin: 20px;
+  height: 75px;
+  margin: 10px;
   width: auto;
   padding: 30px;
   background-color: #C0A464;
@@ -8,11 +8,13 @@ header{
 
 .pageContainer{
   width: auto;
-  margin: 50px;
+  margin: auto;
   padding: 100px;
   background-color: #8DE3F8;
 }
 
+.pictureFrame{
+  background-color: #C0A464;
 
 .wrapper{
 text-align: center;
@@ -27,3 +29,12 @@ h1{
   font-family: "Comic Sans";
   font-size: 72px;
 }
+
+h2{
+  font-family: "Comic Sans";
+  font-size: 32px;
+  
+h3{
+  font-family: "Comic Sans";
+  font-size: 20px;
+  }
