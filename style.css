@@ -1,3 +1,11 @@
+.pageContainer{
+  width: 950px;
+  margin: 150px;
+  background-color: #8DE3F8;
+}
+
+
 .wrapper{
 text-align: center;
 }
+
