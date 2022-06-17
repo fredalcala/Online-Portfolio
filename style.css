@@ -9,6 +9,7 @@ header{
 .wrapper{
 text-align: center;
   width: 400px;
+  margin: auto;
 }
 
 .pageContainer{
