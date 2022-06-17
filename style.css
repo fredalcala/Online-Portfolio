@@ -6,6 +6,8 @@ header{
   background-color: #C8C8C8;
 }
 
+/* wrapper centers my content*/
+
 .wrapper{
 text-align: center;
   width: 700px;
@@ -24,6 +26,8 @@ text-align: center;
   margin: auto;
 }
 
+/* gives my images a little frame for more content */
+
 .pictureFrame{
   background-color: #C8C8C8;
   height: 100px;
@@ -32,7 +36,7 @@ text-align: center;
   padding: 10px;
 }
 
-  
+/* removes unneeded whitespace for my lists */
 
 .condense{
   width: 250px;
@@ -45,6 +49,13 @@ text-align: center;
   margin: auto;
   padding: 20px;
 }
+
+/*stylistic actions for my links*/
+
+a:link    { color: blue;  }
+a:visited { color: purple;   }
+a:hover   { color: black; }
+a:active  { color: green;  }
 
 h1{
   font-family: "Comic Sans";
@@ -59,9 +70,6 @@ h3{
   font-family: "Comic Sans";
   font-size: 20px;
   }
+
   
-  
-a:link    { color: blue;  }
-a:visited { color: purple;   }
-a:hover   { color: black; }
-a:active  { color: green;  }
+
