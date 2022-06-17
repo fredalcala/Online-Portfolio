@@ -2,7 +2,6 @@ header{
   height: 150px;
   margin: 10px;
   width: auto;
-  padding: 20px;
   background-color: #C8C8C8;
 }
 
@@ -34,7 +33,6 @@ text-align: center;
 .imageContainer{
   width: 700px;
   margin: auto;
-  border-radius: 25px;
 }
 
 /* gives my images a little frame for more content */
