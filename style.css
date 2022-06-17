@@ -1,6 +1,15 @@
+header{
+  height: 200px;
+  margin: 150px;
+  width: 950px;
+  padding: 30px;
+  background-color: #C0A464;
+}
+
 .pageContainer{
   width: 950px;
   margin: 150px;
+  padding: 30px;
   background-color: #8DE3F8;
 }
 
@@ -9,3 +18,7 @@
 text-align: center;
 }
 
+h1{
+  font-family: "Comic Sans";
+  font-size: 72px;
+}
