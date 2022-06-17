@@ -33,7 +33,7 @@ text-align: center;
 .condense{
   width: 300px;
   margin: auto;
-  float: center;
+  float: left;
 }
 
 h1{
