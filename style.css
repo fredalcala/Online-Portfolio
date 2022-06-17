@@ -21,6 +21,7 @@ text-align: center;
 
 .imageContainer{
   float: right;
+  margin: auto;
 }
 
 .pictureFrame{
@@ -29,7 +30,6 @@ text-align: center;
   width: auto;
   margin: 10px;
   padding: 10px;
-  float: left;
 }
 
   
