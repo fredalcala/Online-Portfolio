@@ -6,6 +6,16 @@ header{
   background-color: #C8C8C8;
 }
 
+footer{
+  height: 75px;
+  margin: 10px;
+  text-align: center;
+  background-color: #C8C8C8;
+  width: auto;
+  padding: 20px
+  
+}
+
 /* wrapper centers my content*/
 
 .wrapper{
