@@ -1,6 +1,6 @@
 header{
-  height: 200px;
-  margin: 150px;
+  height: 100px;
+  margin: 20px;
   width: 950px;
   padding: 30px;
   background-color: #C0A464;
@@ -16,6 +16,10 @@ header{
 
 .wrapper{
 text-align: center;
+}
+
+.condense{
+  width: 150px;
 }
 
 h1{
